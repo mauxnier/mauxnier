@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a **french breton** developer :fr: ! </br>
+I'm a **french breton** developer :fr: !
+
 I study computer science at **IUT de Lannion** 💻
+
 [![ENFP](https://img.shields.io/badge/MBTI-👨-green.svg?style=for-the-badge)](https://fr.wikipedia.org/wiki/ENFP)
 
 #### 📫 How to reach me:
