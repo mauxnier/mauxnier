@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 I'm a **french breton** developer :fr: 🏳🏴✊ ! </br>
 I study computer science at **IUT de Lannion** 💻
-
-[![MBTI](https://img.shields.io/badge/ENFP-👨-green.svg?style=for-the-badge)](https://fr.wikipedia.org/wiki/ENFP)
+ENFP person 👨
 
 #### 📫 How to reach me:
 - Mail : contact@killianmonnier.com
