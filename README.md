@@ -22,7 +22,7 @@ Developer at [PoudlardRP](https://poudlardrp.fr) 🧙 </br>
 
 #### 📫 - How to reach me
 
-- [🌐 killianmonnier.fr](https://killianmonnier.com)
+- [🌐 killianmonnier.com](https://killianmonnier.com)
 - [📧 E-mail contact](mailto:contact@killianmonnier.com)
 - [🎧 @Poupoutrie#3901](https://discord.com)
 
