@@ -26,7 +26,7 @@ Developer at [**PoudlardRP**](https://poudlardrp.fr) 🧙 </br>
 - [📧 E-mail contact](mailto:contact@killianmonnier.com)
 - [🎧 @Poupoutrie#3901](https://discord.com)
 
-#### 🔗 - Follow me everywhere
+#### 🔗 - Follow me everywhere & support me
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/paraceltus?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/paraceltus)
 [![LinkedIn](https://img.shields.io/badge/Curriculum-📜-blue.svg?style=for-the-badge)](https://www.linkedin.com/in/killianmonnier)
