@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a **french breton** developer :fr: 🏳🏴✊ ! </br>
 I study computer science at **IUT de Lannion** 💻 </br>
-18yo & **ENFP** person 👨
+**18yo** & **ENFP** person 👨
 
 #### 📫 - How to reach me
 
