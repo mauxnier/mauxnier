@@ -26,6 +26,5 @@ I study computer science at **IUT de Lannion** 💻 </br>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/paraceltus?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/paraceltus)
 [![LinkedIn](https://img.shields.io/badge/Curriculum-📜-blue.svg?style=for-the-badge)](https://www.linkedin.com/in/killianmonnier)
-[![Support me on Buy Me a Coffee](https://img.shields.io/badge/Support%20me-☕-orange.svg?style=for-the-badge)](https://www.buymeacoffee.com/kernoeb)
-<a href="https://www.buymeacoffee.com/killianmonnier" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+[![Support me on Buy Me a Coffee](https://img.shields.io/badge/Support%20me-☕🍵-orange.svg?style=for-the-badge)](https://www.buymeacoffee.com/killianmonnier)
 [![PayPal](https://img.shields.io/badge/Donate-💵-yellow.svg?style=for-the-badge)](https://www.paypal.com/monnierkillian)
