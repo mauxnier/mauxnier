@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a **french breton** developer :fr: 🏳🏴✊ ! </br>
 I study computer science at **IUT de Lannion** 💻 </br>
-Developer at [🧙 PoudlardRP](https://poudlardrp.fr) </br>
+Developer at [PoudlardRP](https://poudlardrp.fr) 🧙 </br>
 **18yo** & **ENFP** person 👨
 
 #### 📫 - How to reach me
