@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there, I'm @killianmonnier 🤙🏼
 
 <!--
 **killianmonnier/killianmonnier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a **french breton** developer :flag_fr: !
+I study computer science at **IUT de Lannion** 💻
+
+#### 📫 How to reach me:
+- Mail : contact@killianmonnier.com
+- Telegram : [@killianmonnier](https://t.me/killianmonnier)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/paraceltus?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/paraceltus)
+[![PayPal](https://img.shields.io/badge/Donate-💵-yellow.svg?style=for-the-badge)](https://www.paypal.com/monnierkillian)
