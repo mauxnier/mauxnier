@@ -1,4 +1,4 @@
-### Hello there <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="25px">, I'm [Killian](https://killianmonnier.com) ! 
+### Hello there <img src="https://github.com/killianmonnier/killianmonnier/blob/master/hi.gif" width="25px">, I'm [Killian](https://killianmonnier.com) ! 
 
 <!--
 **killianmonnier/killianmonnier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
