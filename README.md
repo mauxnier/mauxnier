@@ -26,6 +26,7 @@ Observe my **cybersecurity** progress via [**RootMe**](https://www.root-me.org/k
 - [🌐 killianmonnier.com](https://killianmonnier.com)
 - [📧 E-mail contact](mailto:contact@killianmonnier.com)
 - [🎧 @Poupoutrie#3901](https://discord.com)
+- [✈ Telegram](https://t.me/killianmonnier)
 
 #### 🔗 - Follow me everywhere & support me
 
