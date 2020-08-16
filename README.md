@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 I'm a **french breton** developer :fr: 🏳🏴✊ ! </br>
 I study computer science at [**IUT Lannion**](https://linkedin.com/school/iutlannion/) 💻 </br>
-Developer at [**PoudlardRP**](https://poudlardrp.fr) 🧙 </br>
 **18yo** & **ENFP** person 👨 </br>
 Observe my **cybersecurity** progress via [**RootMe**](https://www.root-me.org/killianmonnier) 💀 and my **team's** progress via [**CTFtime**](https://ctftime.org/team/119925) 🏴‍☠️
 
