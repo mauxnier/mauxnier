@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 I'm a 19yo **French Breton** developer :fr: 🏳🏴✊ 🕈 ! </br>
-I study Computer Science at [**IUT Lannion**](https://linkedin.com/school/iutlannion/) 💻 </br>
-Observe my **cybersecurity** progress via [**RootMe**](https://www.root-me.org/killianmonnier) 💀 and my **team's** progress via [**CTFtime**](https://ctftime.org/team/119925) 🏴‍☠️
+I study Computer Science at [**IUT Lannion**](https://iut-lannion.fr) 💻 </br>
+Observe my **cybersecurity** progress via [**RootMe**](https://root-me.org/killianmonnier) 💀 and my **team's** progress via [**CTFtime**](https://ctftime.org/team/119925) 🏴‍☠️
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=killianmonnier&layout=compact&theme=radical" />
 
