@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a 19yo **French Breton** developer :fr: 🏳🏴✊ 🕈 ! </br>
+I'm a 19yo **French Breton** developer 🕈</br>
 I study Computer Science at [**IUT Lannion**](https://iut-lannion.univ-rennes1.fr) 💻 </br>
 Observe my **cybersecurity** progress via [**RootMe**](https://root-me.org/killianmonnier) 💀 and my **team's** progress via [**CTFtime**](https://ctftime.org/team/119925) 🏴‍☠️
 
