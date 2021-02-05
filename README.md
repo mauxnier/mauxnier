@@ -30,6 +30,6 @@ Observe my **cybersecurity** progress via [**RootMe**](https://root-me.org/killi
 
 #### 🔗 - Follow me everywhere & support me
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/killianaglyphe?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/killianaglyphe)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mauxnier?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/mauxnier)
 [![LinkedIn](https://img.shields.io/badge/Curriculum-📜-blue.svg?style=for-the-badge)](https://www.linkedin.com/in/killianmonnier)
 [![PayPal](https://img.shields.io/badge/Donate-💵-yellow.svg?style=for-the-badge)](https://paypal.me/monnierkillian)
