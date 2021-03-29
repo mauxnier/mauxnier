@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a 19yo **French Breton** developer 🕈</br>
 I study Computer Science at [**IUT Lannion**](https://iut-lannion.univ-rennes1.fr) 💻 </br>
-Observe my **cybersecurity** progress via [**RootMe**](https://root-me.org/mauxnier) 💀
+Observe my **cybersecurity** progress via [**Root-Me**](https://root-me.org/mauxnier) 💀
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mauxnier&layout=compact&theme=radical" />
 
