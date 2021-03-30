@@ -22,7 +22,7 @@ Observe my **cybersecurity** progress via [**Root-Me**](https://root-me.org/maux
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauxnier&theme=gotham&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauxnier&layout=compact&theme=gotham&hide_border=true&&count_private=true&include_all_commits=true&layout=compact&langs_count=8"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauxnier&layout=compact&theme=gotham&hide_border=true&&count_private=true&include_all_commits=true&layout=compact&langs_count=4"/>
 </details>
 
 #### 📫 - How to reach me
