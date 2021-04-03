@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a 19yo **French Breton** developer 🕈</br>
-I study Computer Science at [**IUT Lannion**](https://iut-lannion.univ-rennes1.fr) 💻 </br>
+I'm a 19yo **French Breton** developer 🕈
+</br>
+I study Computer Science at [**IUT Lannion**](https://iut-lannion.univ-rennes1.fr) 💻
+</br>
 Observe my **cybersecurity** progress via [**Root-Me**](https://root-me.org/mauxnier) 💀
+</br>
+Look at my **projects** [here](https:mauxnier.github.io) 💼
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
@@ -27,9 +31,10 @@ Observe my **cybersecurity** progress via [**Root-Me**](https://root-me.org/maux
 
 #### 📫 - How to reach me
 
+- [🌐 killianmonnier](https://killianmonnier.com)
 - [📧 E-mail contact](mailto:contact@killianmonnier.com)
-- [🎧 @Poupoutrie#3901](https://discord.com)
 - [✈ Telegram](https://t.me/killianmonnier)
+- [🎧 @Poupoutrie#3901](https://discord.com)
 
 #### 🔗 - Follow me everywhere & support me
 
