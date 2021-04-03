@@ -21,7 +21,7 @@ I study Computer Science at [**IUT Lannion**](https://iut-lannion.univ-rennes1.f
 </br>
 Observe my **cybersecurity** progress via [**Root-Me**](https://root-me.org/mauxnier) 💀
 </br>
-Look at my **projects** [here](https:mauxnier.github.io) 💼
+Look at my **projects** [here](https://mauxnier.github.io) 💼
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
