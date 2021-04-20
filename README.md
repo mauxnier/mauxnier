@@ -34,7 +34,7 @@ Look at my **projects** at [mauxnier.github.io](https://mauxnier.github.io) 💼
 - [🌐 killianmonnier](https://killianmonnier.com)
 - [📧 E-mail contact](mailto:contact@killianmonnier.com)
 - [✈ Telegram](https://t.me/killianmonnier)
-- [🎧 @Poupoutrie#3901](https://discord.com)
+- [🎧 @Mauxnier#3901](https://discord.com)
 
 #### 🔗 - Follow me everywhere & support me
 
