@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a 20yo **French Breton** developer 🕈
+I'm a **French Breton** developer 🕈
 </br>
 I study Computer Science, Cybersecurity and Data Sciences at [**ENSIBS**](https://www-ensibs.univ-ubs.fr) 💻
 </br>
@@ -33,11 +33,8 @@ Look at my **projects** at [mauxnier.github.io](https://mauxnier.github.io) 💼
 
 - [🌐 Website](https://mauxnier.github.io)
 - [📧 E-mail contact](mailto:monnier.killian.pro@gmail.com)
-- [✈ Telegram](https://t.me/killianmonnier)
+- [✈ Telegram](https://t.me/mauxnier)
 - [🎧 @Mauxnier#3901](https://discord.com)
 
-#### 🔗 - Follow me everywhere & support me
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/mauxnier?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/mauxnier)
+#### 🔗 - My Links
 [![LinkedIn](https://img.shields.io/badge/Curriculum-📜-blue.svg?style=for-the-badge)](https://www.linkedin.com/in/killianmonnier)
-[![PayPal](https://img.shields.io/badge/Donate-💵-yellow.svg?style=for-the-badge)](https://paypal.me/mauxnier)
