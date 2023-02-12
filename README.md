@@ -1,4 +1,4 @@
-### Hello there <img src="https://github.com/killianmonnier/killianmonnier/blob/master/hi.gif" width="25px">, I'm [Killian](https://killianmonnier.com) ! 
+### Hello there <img src="https://github.com/killianmonnier/killianmonnier/blob/master/hi.gif" width="25px">, I'm Killian ! 
 
 <!--
 **killianmonnier/killianmonnier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,8 +19,6 @@ I'm a **French Breton** developer 🕈
 </br>
 I study Computer Science, Cybersecurity and Data Sciences at [**ENSIBS**](https://www-ensibs.univ-ubs.fr) 💻
 </br>
-Observe my **cybersecurity** progress via [**Root-Me**](https://root-me.org/mauxnier) 💀
-</br>
 Look at my **projects** at [mauxnier.github.io](https://mauxnier.github.io) 💼
 
 <details>	
@@ -33,8 +31,6 @@ Look at my **projects** at [mauxnier.github.io](https://mauxnier.github.io) 💼
 
 - [🌐 Website](https://mauxnier.github.io)
 - [📧 E-mail contact](mailto:monnier.killian.pro@gmail.com)
-- [✈ Telegram](https://t.me/mauxnier)
-- [🎧 @Mauxnier#3901](https://discord.com)
 
 #### 🔗 - My Links
 [![LinkedIn](https://img.shields.io/badge/Curriculum-📜-blue.svg?style=for-the-badge)](https://www.linkedin.com/in/killianmonnier)
