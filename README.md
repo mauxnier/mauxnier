@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a **French Breton** developer 🕈
+I'm a **French** developer
 </br>
 I study Computer Science, Cybersecurity and Data Sciences at [**ENSIBS**](https://www-ensibs.univ-ubs.fr) 💻
 </br>
