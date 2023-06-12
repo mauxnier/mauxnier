@@ -21,13 +21,8 @@ I study Computer Science, Cybersecurity and Data Sciences at [**ENSIBS**](https:
 </br>
 Look at my **projects** at [mauxnier.github.io](https://mauxnier.github.io) 💼
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-  [![Mauxnier's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauxnier&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  
-    <img height="180em" src="ttps://github-readme-stats.vercel.app/api?username=mauxnier&theme=vision-friendly-dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauxnier&layout=compact&theme=gotham&hide_border=true&&count_private=true&include_all_commits=true&layout=compact&langs_count=4"/>
-</details>
+![Mauxnier's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauxnier&show_icons=true&theme=vision-friendly-dark)
+[![Mauxnier Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauxnier&layout=compact&theme=vision-friendly-dark)](https://github.com/topten1004/github-readme-stats)
 
 #### 📫 - How to reach me
 
