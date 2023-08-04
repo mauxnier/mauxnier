@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a **French** developer 🇫🇷
-</br>
 I study Computer Science, Cybersecurity and Data Sciences at [**ENSIBS**](https://www-ensibs.univ-ubs.fr) 💻
 </br>
 Look at my **projects** at [mauxnier.github.io](https://mauxnier.github.io) 💼
