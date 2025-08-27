@@ -25,7 +25,7 @@ Look at my **projects** at [mauxnier.github.io](https://mauxnier.github.io) 💼
 #### 📫 - How to reach me
 
 - [🌐 Website](https://mauxnier.github.io)
-- [📧 E-mail contact](mailto:monnier.killian.pro@gmail.com)
+- [📧 E-mail contact](mailto:monniercorps@gmail.com)
 
 #### 🔗 - My Links
 [![LinkedIn](https://img.shields.io/badge/Curriculum-📜-blue.svg?style=for-the-badge)](https://www.linkedin.com/in/killianmonnier)
